@@ -1,4 +1,5 @@
-# VIVEK KUMAR PANDEY Banking System
+# VIVEK KUMAR PANDEY
+#Banking System
 Sparks Foundation Internship Project : Basic Banking System  
 A Web Application used to transfer money between multiple users.  
 
